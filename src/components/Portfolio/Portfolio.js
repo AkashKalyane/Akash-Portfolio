@@ -30,7 +30,11 @@ function Portfolio() {
               </span>
               <span
                 className="icon"
-                onClick={() => window.open("")}
+                onClick={() =>
+                  window.open(
+                    "https://akashkalyane.github.io/Akash-Portfolio/calculator"
+                  )
+                }
                 title="Live view"
               >
                 <img src={externalLink} alt="" />
