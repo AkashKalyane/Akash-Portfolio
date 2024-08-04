@@ -1,0 +1,36 @@
+.heading-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem;
+}
+
+.heading {
+  margin-top: 3rem;
+  color: black;
+  font-weight: 500;
+  font-size: 1.7rem;
+  text-align: center;
+}
+
+.heading-container span {
+  display: inline-block;
+  margin: 0 auto;
+  height: 3px;
+  width: 20px;
+  border-radius: 20px;
+  background-color: var(--primary-color);
+}
+
+@media screen and (min-width: 600px) {
+  .heading {
+    font-size: 3rem;
+  }
+
+  .heading-container span {
+    height: 5px;
+    width: 35px;
+  }
+}

@@ -1,0 +1,87 @@
+.app {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.app .add-button {
+  flex: 1;
+  width: 80%;
+  margin: 1rem;
+}
+
+.app .add-button button {
+  border: 1px solid transparent;
+  min-width: 180px;
+  font-weight: 600;
+  padding: 0.8rem 2rem;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.centered-table {
+  border-collapse: collapse;
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.centered-table th,
+.centered-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.centered-table th {
+  background-color: #f2f2f2;
+  color: black;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+.centered-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.centered-table tr:hover {
+  background-color: #ddd;
+}
+
+td span {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+@media (max-width: 500px) {
+  .centered-table {
+    width: 95%;
+    overflow-x: auto;
+    display: block;
+    white-space: nowrap;
+  }
+
+  .centered-table th,
+  .centered-table td {
+    padding: 6px;
+    font-size: 14px;
+  }
+
+  .centered-table th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  .app .add-button {
+    width: 95%;
+  }
+}
