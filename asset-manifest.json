@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AkashKalyane/Akash-Portfolio/static/css/main.b447ddc8.css",
+    "main.js": "/AkashKalyane/Akash-Portfolio/static/js/main.88bd9dc0.js",
+    "static/media/calculator.png": "/AkashKalyane/Akash-Portfolio/static/media/calculator.db06b52482941e3f55af.png",
+    "static/media/dev.svg": "/AkashKalyane/Akash-Portfolio/static/media/dev.5ac54af8cdecb6b477d6597a6bae015b.svg",
+    "static/media/shake.svg": "/AkashKalyane/Akash-Portfolio/static/media/shake.c7165a1f59e2367bf4395199384f606f.svg",
+    "static/media/github-repo.svg": "/AkashKalyane/Akash-Portfolio/static/media/github-repo.5531be85d7a8d6f333e5c7136944a022.svg",
+    "index.html": "/AkashKalyane/Akash-Portfolio/index.html",
+    "static/media/external-link.svg": "/AkashKalyane/Akash-Portfolio/static/media/external-link.5ee6e4ca30f8980123a3f93e2cf305d0.svg",
+    "main.b447ddc8.css.map": "/AkashKalyane/Akash-Portfolio/static/css/main.b447ddc8.css.map",
+    "main.88bd9dc0.js.map": "/AkashKalyane/Akash-Portfolio/static/js/main.88bd9dc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b447ddc8.css",
+    "static/js/main.88bd9dc0.js"
+  ]
+}
