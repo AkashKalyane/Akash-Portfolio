@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Akash-Portfolio/static/css/main.421b813d.css",
-    "main.js": "/Akash-Portfolio/static/js/main.15cc6e78.js",
+    "main.js": "/Akash-Portfolio/static/js/main.25b98291.js",
     "static/media/calculator.png": "/Akash-Portfolio/static/media/calculator.db06b52482941e3f55af.png",
     "static/media/dev.svg": "/Akash-Portfolio/static/media/dev.5ac54af8cdecb6b477d6597a6bae015b.svg",
     "static/media/shake.svg": "/Akash-Portfolio/static/media/shake.c7165a1f59e2367bf4395199384f606f.svg",
@@ -9,10 +9,10 @@
     "index.html": "/Akash-Portfolio/index.html",
     "static/media/external-link.svg": "/Akash-Portfolio/static/media/external-link.5ee6e4ca30f8980123a3f93e2cf305d0.svg",
     "main.421b813d.css.map": "/Akash-Portfolio/static/css/main.421b813d.css.map",
-    "main.15cc6e78.js.map": "/Akash-Portfolio/static/js/main.15cc6e78.js.map"
+    "main.25b98291.js.map": "/Akash-Portfolio/static/js/main.25b98291.js.map"
   },
   "entrypoints": [
     "static/css/main.421b813d.css",
-    "static/js/main.15cc6e78.js"
+    "static/js/main.25b98291.js"
   ]
 }
