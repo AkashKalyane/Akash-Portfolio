@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { HashRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <Router>
+      <Router basename="/Akash-Portfolio">
         <Routes>
           <Route path="/" element={routes} />
           <Route path="/calculator" element={<Calculator />} />

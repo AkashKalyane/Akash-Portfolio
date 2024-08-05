@@ -89,3 +89,9 @@
     display: none;
   }
 }
+
+@media screen and (max-width: 370px) {
+  .content form textarea {
+    width: 360px;
+  }
+}

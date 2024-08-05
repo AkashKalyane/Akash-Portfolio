@@ -25,7 +25,14 @@ function Portfolio() {
               <p>Modern UI/UX / Light/Dark Mode</p>
             </div>
             <div className="right">
-              <span className="icon" onClick={() => window.open("")}>
+              <span
+                className="icon"
+                onClick={() =>
+                  window.open(
+                    "https://github.com/AkashKalyane/Akash-Portfolio/tree/master/src/Calculator"
+                  )
+                }
+              >
                 <img src={githubRepo} alt="" />
               </span>
               <span
